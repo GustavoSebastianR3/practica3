@@ -46,3 +46,29 @@ button.accept-policy[b-y8u7xnhx7r] {
   white-space: nowrap;
   line-height: 60px;
 }
+body[b-y8u7xnhx7r] {
+  background-color: #f8f9fa;
+}
+
+.table[b-y8u7xnhx7r] {
+  background-color: #fff;
+}
+
+th[b-y8u7xnhx7r] {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.table-striped tbody tr:nth-of-type(odd)[b-y8u7xnhx7r] {
+  background-color: #f2f2f2;
+}
+
+.btn-info[b-y8u7xnhx7r] {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-info:hover[b-y8u7xnhx7r] {
+  background-color: #138496;
+  border-color: #138496;
+}
