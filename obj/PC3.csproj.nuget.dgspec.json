@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PC3\\PC3.csproj": {}
+    "D:\\practica3Huayta\\PC3.csproj": {}
   },
   "projects": {
-    "D:\\PC3\\PC3.csproj": {
+    "D:\\practica3Huayta\\PC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PC3\\PC3.csproj",
+        "projectUniqueName": "D:\\practica3Huayta\\PC3.csproj",
         "projectName": "PC3",
-        "projectPath": "D:\\PC3\\PC3.csproj",
+        "projectPath": "D:\\practica3Huayta\\PC3.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "D:\\PC3\\obj\\",
+        "outputPath": "D:\\practica3Huayta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
