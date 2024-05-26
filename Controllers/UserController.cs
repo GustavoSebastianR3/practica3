@@ -48,7 +48,7 @@ namespace UserManagementApp.Controllers
 
             if (response.IsSuccessStatusCode)
             {
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Create));
             }
 
             ModelState.AddModelError(string.Empty, "Error creating user");
