@@ -21,7 +21,7 @@ namespace UserManagementApp.Services
 
         public async Task<UserResponse> GetUserAsync(int id)
         {
-            return await _httpClient.GetFromJsonAsync<UserResponse>($"https://reqres.in/api/users/{1}");
+            return await _httpClient.GetFromJsonAsync<UserResponse>($"https://reqres.in/api/users/{id}");
         }
 
         public async Task<HttpResponseMessage> CreateUserAsync(CreateUser user)
